@@ -1,7 +1,7 @@
 {
-  "name": "cicerovoice",
+  "name": "wizard",
   "version": "1.0.0",
-  "description": "Çiçero Ekibi İçin Yapılan Tokenleri Seste Tutma Uygulaması",
+  "description": "wizard voice tool",
   "main": "index.js",
   "scripts": {
     "test": "npm run client"
